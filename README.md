@@ -1,7 +1,6 @@
 # Bem-vindo ao meu Github! 👋
 
-🚀 Atualmente trabalhando em um projeto voluntário — desenvolvendo um Aplicativo Web para a Câmara Municipal.<br>🌱 Estudando JavaScript e me aprofundando no desenvolvimento web.
-<br>💬 Quer saber mais sobre minha trajetória ou os projetos que já desenvolvi? É só perguntar!
+🚀 Estudando e me aprofundando na programação.<br>💬 Quer saber sobre minha trajetória ou os projetos que já desenvolvi? É só perguntar!
 <br>☕ Curiosidade: amo transformar café em código, principalmente em dias chuvosos.
 
 ## 💻 Linguagens e Tecnologias:
