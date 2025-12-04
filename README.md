@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou uma desenvolvedora atualmente cursando Análise e Desenvolvimento de Sistemas. Aqui você encontrará meus projetos, estudos e experimentos, feitos com carinho, curiosidade… e aquele improviso estratégico quando a lógica decide tirar férias.</p>
+<p align="left">Sou a Larissa, uma desenvolvedora atualmente cursando Análise e Desenvolvimento de Sistemas.<br><br>Apaixonada por transformar ideias em código e criar soluções significativas através da tecnologia. Aqui você encontrará meus projetos, estudos e experimentos, feitos com carinho, curiosidade… e aquele improviso estratégico quando a lógica decide tirar férias.</p>
 
 ###
 
