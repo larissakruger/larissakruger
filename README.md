@@ -1,12 +1,16 @@
-<h1 align="left">Bem-vindo ao meu Github! 👋</h1>
+<h1 align="left">👩‍💻 Bem-vindo ao meu Github!</h1>
 
 ###
 
-<p align="left">Aqui você encontrará meus projetos, estudos e experimentos, feitos com carinho, curiosidade… e aquele improviso estratégico quando a lógica decide tirar férias.<br><br>🚀 Sempre estudando e me aprofundando na programação.<br>☕ Amo transformar café em código!</p>
+<p align="left">Sou uma desenvolvedora atualmente cursando Análise e Desenvolvimento de Sistemas. Aqui você encontrará meus projetos, estudos e experimentos, feitos com carinho, curiosidade… e aquele improviso estratégico quando a lógica decide tirar férias.</p>
 
 ###
 
-<h2 align="left">Linguagens e Tecnologias:</h2>
+<h2 align="left">💻 Stack Tecnológica:</h2>
+
+###
+
+<h3 align="left">Linguagens:</h3>
 
 ###
 
@@ -22,10 +26,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="50" alt="cplusplus logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="php logo"  />
+</div>
+
+###
+
+<h3 align="left">Banco de dados, DevOps e ferramentas:</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="50" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="50" alt="mysql logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
 </div>
 
 ###
