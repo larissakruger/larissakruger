@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas.<br><br>Apaixonada por transformar ideias em código e criar soluções significativas através da tecnologia. Aqui você encontrará meus projetos, estudos e experimentos, feitos com carinho, curiosidade…</p>
+<p align="left">Desenvolvedora e estudante de Análise e Desenvolvimento de Sistemas.<br>
 
 ###
 
